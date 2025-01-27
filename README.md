@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ | 🏉 **Football & Rugby Fan**
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan**
 
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
 
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
@@ -28,15 +28,46 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 
 ---
 
-## 📂 **Highlighted Projects**
+## 🌐 **Interactive Portfolio Showcase**
 
-### [🌐 Personal Portfolio](https://github.com/Olebraende/portfolio)
+### [🌐 Personal Portfolio](https://your-portfolio-link.com)
+[![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)](https://your-portfolio-link.com)
+
 A showcase of my work, skills, and experiences in web development. Built using React, responsive design, and clean code principles.
+
+---
+
+## 🎓 **Certifications & Courses**
+
+- ✅ [Frontend Development Certificate](https://www.freecodecamp.org/) – FreeCodeCamp
+- ✅ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/) – FreeCodeCamp
+- ✅ React Complete Guide – Udemy
+
+---
+
+## 🎉 **Hobbies & Interests**
+
+- ⚽ Watching football (Liverpool FC fan) and rugby (Leeds Rhinos supporter).
+- 🎮 Gaming: I enjoy strategy and role-playing games.
+- 🌍 Learning new technologies and exploring the web development community.
+
+---
+
+## 🛠️ **How I Work**
+
+- **Code Editor:** Visual Studio Code with extensions like Prettier, ESLint, and Live Server.
+- **Version Control:** Git & GitHub for managing code and collaborating with others.
+- **Project Management:** I use Trello or Notion to keep my projects organized.
+- **Collaboration Style:** I love pair programming and brainstorming creative solutions.
+
+---
+
+## 📂 **Highlighted Projects**
 
 ### [📋 Task Manager App](https://github.com/Olebraende/task-manager)
 A productivity app for managing daily tasks, built with React and Node.js.
 
-### [🎮 Pong Game](https://olebraende.github.io/Pong-Game/)
+### [🎮 Pong Game](https://github.com/Olebraende/Pong-Game)
 A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaScript.
 
 ---
@@ -44,7 +75,7 @@ A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaS
 ## 📫 **Get in Touch**
 
 - **Email:** [Send me a mail here.](mailto:olembrande.work@gmail.com)  
-- **Portfolio:** [Coming Soon!](#)  
+- **Portfolio:** [Coming Soon!](https://your-portfolio-link.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
 
 ---
@@ -55,3 +86,13 @@ A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olebraende&layout=compact&theme=radical)
 
 ---
+
+## 📈 **Visitor Counter**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
+
+---
+
+## 🤓 **Fun Widget**
+
+![Random Dev Joke](https://readme-jokes.vercel.app/api)
