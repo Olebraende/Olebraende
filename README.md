@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
 
+## 🤓 **Fun Widget**
+
+![Random Dev Joke](https://readme-jokes.vercel.app/api)
+
 ---
 
 ## 🚀 **About Me**
@@ -84,7 +88,3 @@ A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaS
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olebraende&layout=compact&theme=radical)
 
 ---
-
-## 🤓 **Fun Widget**
-
-![Random Dev Joke](https://readme-jokes.vercel.app/api)
