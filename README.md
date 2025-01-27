@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan**
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** | ![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
 
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
 ---
 
-## 📈 **Visitor Counter** | ## 🤓 **Fun Widget**
+## 🤓 **Fun Widget**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)  ![Random Dev Joke](https://readme-jokes.vercel.app/api)
+![Random Dev Joke](https://readme-jokes.vercel.app/api)
 
 ---
 
