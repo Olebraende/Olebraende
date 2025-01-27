@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ole Brænde!
 
 🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** |
+
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
 ---
