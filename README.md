@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**Olebraende/Olebraende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football Fan**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating beautiful, responsive, and interactive web experiences. I specialize in frontend development and am continuously learning to improve my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **About Me**
+
+- 🔭 I’m currently working on: [Your Current Project]
+- 🌱 I’m learning: [Current Technologies, e.g., TypeScript, Tailwind CSS]
+- 💼 Career goal: Becoming a full-stack developer with a focus on user-friendly web applications.
+- ⚡ Fun fact: I’m a huge fan of [Liverpool FC/Leeds United] and enjoy watching both football and rugby in my spare time.
+
+---
+
+## 🛠️ **Tech Stack**
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React
+- **Tools:** Figma, Git, VS Code
+- **Other:** Responsive Design, REST APIs
+
+---
+
+## 📂 **Highlighted Projects**
+
+### [🌐 Personal Portfolio](...)
+A showcase of my work, skills, and experiences in web development.
+This will be published soon
+
+### [📋 Task Manager App](https://github.com/your-username/task-manager)
+A productivity app built with React and Node.js to help you manage daily tasks.
+
+### [🎮 Pong Game](https://github.com/Olebraende/JS-Pong)
+A fun remake of the classic Pong game, created with HTML, CSS, and vanilla JavaScript.
+
+---
+
+## 📫 **Get in Touch**
+
+- **Email:** [olembrande.work@gmail.com](mailto:olembrande.work@gmail.com)
+- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
+
+---
+
+## 🌟 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
