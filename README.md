@@ -6,13 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 
 ---
 
-## 📈 **Visitor Counter**
+## 📈 **Visitor Counter** | ## 🤓 **Fun Widget**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
-
-## 🤓 **Fun Widget**
-
-![Random Dev Joke](https://readme-jokes.vercel.app/api)
+![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen) | ![Random Dev Joke](https://readme-jokes.vercel.app/api)
 
 ---
 
