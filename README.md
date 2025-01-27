@@ -1,56 +1,65 @@
-# 👋 Hi, I'm Ole Braende!
+# 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football Fan**
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan**
 
-Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating beautiful, responsive, and interactive web experiences. 
-For now I specialize in frontend development and am continuously learning to improve my craft, but I'm always looking to learn more beyond frontend.
+Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
 ---
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m learning: [Current Technologies, e.g., CSS, Javascript, React]
-- 💼 Career goal: Becoming a full-stack developer with a focus on user-friendly web applications.
-- ⚡ Fun fact: I’m a huge fan of [Liverpool FC & Leeds United] and enjoy watching both football in my spare time.
-- ⚡ Fun fact: I also do love to watch rugby and I'm a huge fan of [Leeds Rhinos].
+- 🔭 I’m currently working on: Building interactive and responsive web projects.
+- 🌱 I’m learning: React to expand my frontend expertise.
+- 💼 Career goal: To become a full-stack developer and contribute to meaningful projects.
+- ⚡ Fun fact: I’m a huge supporter of [Liverpool FC ⚽] and [Leeds Rhinos 🏉]!
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React
-- **Tools:** Figma, Git, VS Code
-- **Other:** Responsive Design, REST APIs
+### **Languages & Frameworks**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+### **Other Skills**
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-000000?logo=responsive&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6F00?logo=api&logoColor=white)
 
 ---
 
 ## 📂 **Highlighted Projects**
 
-### [🌐 Personal Portfolio](...)
-A showcase of my work, skills, and experiences in web development.
-This will be published soon
+### [🌐 Personal Portfolio](https://github.com/Olebraende/portfolio)
+A showcase of my work, skills, and experiences in web development. Built using React, responsive design, and clean code principles.
 
-### [📋 Task Manager App](https://github.com/your-username/task-manager)
-A productivity app built with React and Node.js to help you manage daily tasks.
+### [📋 Task Manager App](https://github.com/Olebraende/task-manager)
+A productivity app for managing daily tasks, built with React and Node.js.
 
-### [🎮 Pong Game](https://github.com/Olebraende/JS-Pong)
-A fun remake of the classic Pong game, created with HTML, CSS, and vanilla JavaScript.
+### [🎮 Pong Game](https://github.com/Olebraende/Pong-Game)
+A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaScript.
 
 ---
 
 ## 📫 **Get in Touch**
 
-- **Email:** [Send me a Mail here!](mailto:olembrande.work@gmail.com)
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
+- **Email:** [Send me a mail here.](mailto:olembrande.work@gmail.com)  
+- **Portfolio:** [Coming Soon!](#)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
 
 ---
 
 ## 🌟 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olebraende&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olebraende&layout=compact&theme=radical)
 
 ---
