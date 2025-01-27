@@ -3,7 +3,7 @@
 🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football Fan**
 
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating beautiful, responsive, and interactive web experiences. 
-I specialize in frontend development and am continuously learning to improve my craft.
+For now I specialize in frontend development and am continuously learning to improve my craft, but I'm always looking to learn more beyond frontend.
 
 ---
 
