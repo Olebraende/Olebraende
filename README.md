@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽🏉 **Football & Rugby Fan**
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ | 🏉 **Football & Rugby Fan**
 
-Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now I specialize in frontend development and enjoy solving challenges through clean and efficient code.
+Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
 ---
 
@@ -18,27 +18,13 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### **Tools**
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
+[![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
 ### **Other Skills**
-<div>
-  <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
+[![Other Skills](https://skillicons.dev/icons?i=responsive,api)](https://skillicons.dev)
 
 ---
 
@@ -50,7 +36,7 @@ A showcase of my work, skills, and experiences in web development. Built using R
 ### [📋 Task Manager App](https://github.com/Olebraende/task-manager)
 A productivity app for managing daily tasks, built with React and Node.js.
 
-### [🎮 Pong Game](https://github.com/Olebraende/Pong-Game)
+### [🎮 Pong Game](https://olebraende.github.io/Pong-Game/)
 A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaScript.
 
 ---
