@@ -42,7 +42,7 @@ A fun remake of the classic Pong game, created with HTML, CSS, and vanilla JavaS
 
 ## 📫 **Get in Touch**
 
-- **Email:** [olembrande.work@gmail.com](mailto:olembrande.work@gmail.com)
+- **Email:** [Send me a Mail here!](mailto:olembrande.work@gmail.com)
 - **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
 
