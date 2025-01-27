@@ -1,17 +1,19 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ole Braende!
 
 🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football Fan**
 
-Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating beautiful, responsive, and interactive web experiences. I specialize in frontend development and am continuously learning to improve my craft.
+Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating beautiful, responsive, and interactive web experiences. 
+I specialize in frontend development and am continuously learning to improve my craft.
 
 ---
 
 ## 🚀 **About Me**
 
 - 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m learning: [Current Technologies, e.g., TypeScript, Tailwind CSS]
+- 🌱 I’m learning: [Current Technologies, e.g., CSS, Javascript, React]
 - 💼 Career goal: Becoming a full-stack developer with a focus on user-friendly web applications.
-- ⚡ Fun fact: I’m a huge fan of [Liverpool FC/Leeds United] and enjoy watching both football and rugby in my spare time.
+- ⚡ Fun fact: I’m a huge fan of [Liverpool FC & Leeds United] and enjoy watching both football in my spare time.
+- ⚡ Fun fact: I also do love to watch rugby and I'm a huge fan of [Leeds Rhinos].
 
 ---
 
