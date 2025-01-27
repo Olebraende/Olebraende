@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** | ![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
-
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** |
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
 ---
@@ -77,5 +76,7 @@ A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olebraende&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olebraende&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
+
 
 ---
