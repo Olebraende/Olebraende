@@ -73,11 +73,6 @@ A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaS
 
 ---
 
-## 🌟 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olebraende&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olebraende&layout=compact&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
-
 
 ---
