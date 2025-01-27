@@ -6,12 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 
 ---
 
-## 🤓 **Fun Widget**
-
-![Random Dev Joke](https://readme-jokes.vercel.app/api)
-
----
-
 ## 🚀 **About Me**
 
 - 🔭 I’m currently working on: Building interactive and responsive web projects.
@@ -29,8 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
-### **Other Skills**
-[![Other Skills](https://skillicons.dev/icons?i=responsive,api)](https://skillicons.dev)
+## 🤓 **Fun Widget**
+
+![Random Dev Joke](https://readme-jokes.vercel.app/api)
 
 ---
 
