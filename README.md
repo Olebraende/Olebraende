@@ -40,9 +40,7 @@ A showcase of my work, skills, and experiences in web development. Built using R
 
 ## 🎓 **Certifications & Courses**
 
-- ✅ [Frontend Development Certificate](https://www.freecodecamp.org/) – FreeCodeCamp
-- ✅ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/) – FreeCodeCamp
-- ✅ React Complete Guide – Udemy
+- ✅
 
 ---
 
