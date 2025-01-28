@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ole Brænde!
 
-🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** |
+🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** 🏉
 
 Welcome to my GitHub profile! I'm a passionate developer from Norway who loves creating responsive and user-friendly web applications. For now, I specialize in frontend development and enjoy solving challenges through clean and efficient code.
 
@@ -11,14 +11,14 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 - 🔭 I’m currently working on: Building interactive and responsive web projects.
 - 🌱 I’m learning: React to expand my frontend expertise.
 - 💼 Career goal: To become a full-stack developer and contribute to meaningful projects.
-- ⚡ Fun fact: I’m a huge supporter of [Liverpool FC ⚽] and [Leeds Rhinos 🏉]!
+- ⚡ Fun fact: I’m a huge supporter of Liverpool FC ⚽ and Leeds Rhinos 🏉!
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
