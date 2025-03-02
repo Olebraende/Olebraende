@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node)](https://skillicons.dev)
 
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🌐 **Interactive Portfolio Showcase**
 
 ### [🌐 Personal Portfolio](https://your-portfolio-link.com)
-[![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)](https://your-portfolio-link.com)
+[![Portfolio Screenshot](https://i.imgur.com/oGEccg9.png)](https://olebraende.github.io/My-Portfolio/)
 
 A showcase of my work, skills, and experiences in web development. Built using React, responsive design, and clean code principles.
 
