@@ -55,8 +55,8 @@ A showcase of my work, skills, and experiences in web development. Built using R
 
 ## 📂 **Highlighted Projects**
 
-### [📋 Task Manager App](https://github.com/Olebraende/task-manager)
-A productivity app for managing daily tasks, built with React and Node.js.
+### [📺 "Fjell Kino"](https://olem-kodehode4.github.io/Fjell-Kino/)
+Dette prosjektet er en moderne og responsiv nettside utviklet i React, bygget for det fiktive selskapet Fjell Kino. Nettsiden gir brukerne mulighet til å bla gjennom tilgjengelige filmer, kommende filmer, bestille billetter og kontakte kinoen.
 
 ### [🎮 Pong Game](https://github.com/Olebraende/Pong-Game)
 A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaScript.
