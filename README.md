@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🛠️ **Tech Stack**
 
 ### **Languages & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
 
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
