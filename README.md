@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
+---
 
 ## 🌐 **Interactive Portfolio Showcase**
 
@@ -55,9 +56,11 @@ A showcase of my work, skills, and experiences in web development.
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
-![Percentage of my moste used language so far](https://github-readme-stats.vercel.app/api/top-langs?username=Olebraende&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Olebraende&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false)
+![Percentage of my moste used language so far](https://github-readme-stats.vercel.app/api/top-langs?username=Olebraende&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false)
 
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
 
 ---
