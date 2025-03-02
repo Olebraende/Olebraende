@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🚀 **About Me**
 
 - 🔭 I’m currently working on: Building interactive and responsive web projects.
-- 🌱 I’m learning: React to expand my frontend expertise.
+- 🌱 I’m currently learning: SQL and node to get more experience with coding, and backend development. 
 - 💼 Career goal: To become a full-stack developer and contribute to meaningful projects.
 - ⚡ Fun fact: I’m a huge supporter of Liverpool FC ⚽ and Leeds Rhinos 🏉!
 
@@ -23,24 +23,19 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ### **Tools**
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
-## 🤓 **Fun Widget**
-
-![Random Dev Joke](https://readme-jokes.vercel.app/api)
-
----
 
 ## 🌐 **Interactive Portfolio Showcase**
 
 ### [🌐 Personal Portfolio](https://your-portfolio-link.com)
 [![Portfolio Screenshot](https://i.imgur.com/oGEccg9.png)](https://olebraende.github.io/My-Portfolio/)
 
-A showcase of my work, skills, and experiences in web development. Built using React, responsive design, and clean code principles.
+A showcase of my work, skills, and experiences in web development.
 
 ---
 
 ## 🎓 **Certifications & Courses**
 
-- ✅
+- ⏱️ - FrontEnd (with a optional backend module), course at Jobloop.no (Kodehode)
 
 ---
 
@@ -53,24 +48,16 @@ A showcase of my work, skills, and experiences in web development. Built using R
 
 ---
 
-## 📂 **Highlighted Projects**
-
-### [📺 "Fjell Kino"](https://olem-kodehode4.github.io/Fjell-Kino/)
-Dette prosjektet er en moderne og responsiv nettside utviklet i React, bygget for det fiktive selskapet Fjell Kino. Nettsiden gir brukerne mulighet til å bla gjennom tilgjengelige filmer, kommende filmer, bestille billetter og kontakte kinoen.
-
-### [🎮 Pong Game](https://github.com/Olebraende/Pong-Game)
-A fun and interactive remake of the classic Pong game using HTML, CSS, and JavaScript.
-
----
-
 ## 📫 **Get in Touch**
 
 - **Email:** [Send me a mail here.](mailto:olembrande.work@gmail.com)  
-- **Portfolio:** [Coming Soon!](https://your-portfolio-link.com)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/olebrande/)
 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Olebraende&color=brightgreen)
+![Percentage of my moste used language so far](https://github-readme-stats.vercel.app/api/top-langs?username=Olebraende&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Olebraende&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false)
+
 
 ---
