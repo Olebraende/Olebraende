@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🌐 **Interactive Portfolio Showcase**
 
 ### [🌐 My Personal Portfolio](https://olebraende.github.io/portfolio-olebrande/)
-[![Portfolio Screenshot](https://i.imgur.com/oGEccg9.png)](https://olebraende.github.io/portfolio-olebrande/)
+[![Portfolio Screenshot](https://i.imgur.com/oGEccg9.png)](olebrande.no)
 
 A showcase of my work, skills, and experiences in web development.
 
