@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ole Brænde!
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/964012db-4883-4a8a-8b8a-226615eb61d2" /># 👋 Hi, I'm Ole Brænde!
 
 🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** 🏉
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 ## 🌐 **Interactive Portfolio Showcase**
 
 ### [🌐 My Personal Portfolio](https://olebrande.no)
-[![Portfolio Screenshot](https://i.imgur.com/oGEccg9.png)](https://olebrande.no)
+[![Portfolio Screenshot](https://i.imgur.com/3ASKray.jpeg)](https://olebrande.no)
 
 A showcase of my work, skills, and experiences in web development.
 
