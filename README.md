@@ -1,4 +1,4 @@
-<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/964012db-4883-4a8a-8b8a-226615eb61d2" /># 👋 Hi, I'm Ole Brænde!
+👋 Hi, I'm Ole Brænde!
 
 🎨 **Frontend Developer** | 🌍 **Tech Enthusiast** | ⚽ **Football & Rugby Fan** 🏉
 
