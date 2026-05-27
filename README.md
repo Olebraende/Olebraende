@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Norway who loves c
 
 ### **Tools & Databases**
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,postgres)](https://skillicons.dev) 
+
 *(Note: I am also highly proficient with Microsoft SQL Server/TSQL for enterprise database design!)*
 
 ---
